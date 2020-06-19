@@ -1,0 +1,9 @@
+{
+  "Id": "Patches projectiles to no longer phase as much. WARNING - increased computational cost.",
+  "DisplayName": "Projectile Phasing Patch",
+  "Author": "FLSoz",
+  "Version": "0.1.0",
+  "Enable": true,
+  "AssemblyName": "PatchProjectilePhasing.dll",
+  "EntryMethod": "PatchProjectilePhasing.IngressPoint.Main"
+}
